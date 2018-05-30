@@ -1,0 +1,11 @@
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\PanaeriaDiario.exe.config
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\PanaeriaDiario.exe
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\PanaeriaDiario.pdb
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\MySql.Data.dll
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\MySql.Data.EntityFramework.dll
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\bin\Debug\MySql.Web.dll
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\obj\Debug\PanaeriaDiario.csprojResolveAssemblyReference.cache
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\obj\Debug\PanaeriaDiario.exe
+c:\users\alulab14.inf\documents\visual studio 2017\Projects\PanaeriaDiario\PanaeriaDiario\obj\Debug\PanaeriaDiario.pdb
